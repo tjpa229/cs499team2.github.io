@@ -54,3 +54,7 @@ how these problems can be approached.
 lack of documentation, particularly with its setup.
 
 * 2018/09/05 - Met with stakeholders for requirements elicitation.
+
+## Documents
+
+* [Requirements specification](https://cs499team2.github.io/Requirements.docx)
