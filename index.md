@@ -48,7 +48,7 @@ how these problems can be approached.
 
 ## Project activity
 
-* 2018/09/23 - Finished setup of a BinderHub environment with Google Cloud.
+* 2018/09/23 - Finished setup of a BinderHub environment with Google Cloud. (http://35.231.219.192/)
 
 * 2018/09/21 - Met with stakeholders to discuss problems with BinderHub and its
 lack of documentation, particularly with its setup.
