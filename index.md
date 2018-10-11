@@ -11,9 +11,9 @@ easily shared between users.
 
 ## Team members
 
-* TJ Patel (tjpa229@g.uky.edu)
+* TJ Patel (tjpa229@g.uky.edu) [Personal developer notebook](https://github.com/tjpa229/cs499team2.github.io/blob/master/TJ.md)
 
-* Jared Payne (jmpa235@g.uky.edu)
+* Jared Payne (jmpa235@g.uky.edu) [Personal developer notebook](https://github.com/tjpa229/cs499team2.github.io/blob/master/Jared.md)
 
 ## Project requirements
 
